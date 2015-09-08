@@ -1,0 +1,21 @@
+[Tue Sep 08 15:19:25 2015] [warn] Init: Name-based SSL virtual hosts only work for clients with TLS server name indication support (RFC 4366)
+[Tue Sep 08 15:19:26 2015] [warn] Init: Name-based SSL virtual hosts only work for clients with TLS server name indication support (RFC 4366)
+[Tue Sep 08 15:19:26 2015] [notice] Apache/2.2.22 (Win32) mod_ssl/2.2.22 OpenSSL/1.0.1c PHP/5.2.12 configured -- resuming normal operations
+[Tue Sep 08 15:19:26 2015] [notice] Server built: Apr 20 2012 18:42:30
+[Tue Sep 08 15:19:26 2015] [notice] Parent: Created child process 5888
+[Tue Sep 08 15:19:26 2015] [notice] Disabled use of AcceptEx() WinSock2 API
+[Tue Sep 08 15:19:26 2015] [warn] Init: Name-based SSL virtual hosts only work for clients with TLS server name indication support (RFC 4366)
+[Tue Sep 08 15:19:27 2015] [warn] Init: Name-based SSL virtual hosts only work for clients with TLS server name indication support (RFC 4366)
+[Tue Sep 08 15:19:27 2015] [notice] Child 5888: Child process is running
+[Tue Sep 08 15:19:27 2015] [notice] Child 5888: Acquired the start mutex.
+[Tue Sep 08 15:19:27 2015] [notice] Child 5888: Starting 25 worker threads.
+[Tue Sep 08 15:19:27 2015] [notice] Child 5888: Listening on port 443.
+[Tue Sep 08 15:19:27 2015] [notice] Child 5888: Listening on port 8648.
+[Tue Sep 08 15:19:27 2015] [notice] Child 5888: Listening on port 443.
+[Tue Sep 08 15:19:27 2015] [notice] Child 5888: Listening on port 80.
+[Tue Sep 08 16:21:30 2015] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Tue Sep 08 16:21:30 2015] [notice] Child 5888: Exit event signaled. Child process is ending.
+[Tue Sep 08 16:21:31 2015] [notice] Child 5888: Released the start mutex
+[Tue Sep 08 16:21:31 2015] [notice] Child 5888: All worker threads have exited.
+[Tue Sep 08 16:21:36 2015] [notice] Child 5888: Child process is exiting
+[Tue Sep 08 16:21:36 2015] [notice] Parent: Child process exited successfully.
